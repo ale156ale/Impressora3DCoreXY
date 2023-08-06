@@ -1,0 +1,67 @@
+
+Pin Serial 25 pin
+1
+2 - hotend
+3
+4 - sensor hotend
+5
+6 - Fan hotend
+7
+8 - Fan mesa
+9
+10
+11 - Leveler
+12 
+13 - Laser
+
+
+pin LPT 25 - motores e fim de curso
+1
+2
+3
+4 - Motor Extrusor
+5
+6
+7
+8 - Motor X
+9
+10
+11
+12 - Motor Y
+13
+14
+15
+16 - Motor Z1
+17
+18
+19
+20 - Motor Z2
+21 
+22 - Fim Curso X
+23
+24 - Fim Curso Y
+25 - NC
+
+
+pin LPT 25 - Display e SD
+1
+2
+3
+4
+5
+6
+7
+8
+9 
+10 - SD
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20 - Display
+21 a 25 - NC

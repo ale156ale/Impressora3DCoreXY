@@ -1,0 +1,9 @@
+Camada 0,2
+
+No simplify3d, na aba outras, compensação horizontal
+colocar um valor negativo de no máximo 0,5x o valor do bico, no caso de bico 0,4, no máximo 0,2mm
+negativo, aumenta os buracos e diminui os pinos.
+
+No Slic3r = XY Size compensation
+
+Valor recomendado (testar) = -0,19

@@ -1,0 +1,11 @@
+PID CoreXY
+
+HotEnd
+KP: 23.39
+KI: 2.23
+KD: 61.32
+
+Bed
+KP: 128.34
+KI: 23.38
+KD: 176.10
